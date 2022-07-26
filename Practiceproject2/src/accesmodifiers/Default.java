@@ -1,6 +1,5 @@
 package accesmodifiers;
 
-
 class defAccessSpecifier
 { 
   void display() 
