@@ -77,7 +77,8 @@ Node head; // head of list
         		} 
         		return list; 
     	} 
-    	private static void If(boolean b) {
+    	@SuppressWarnings("unused")
+		private static void If(boolean b) {
 			// TODO Auto-generated method stub
 			
 		}
